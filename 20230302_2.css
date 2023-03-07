@@ -1,0 +1,31 @@
+#image{
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 30px;
+    margin-top: 30px;
+    
+}
+.Market{
+    border-bottom: 1px solid black;
+    display: flex;
+    
+    
+}
+#lookclose{
+    text-align: end;
+}
+#text{
+    margin-top: 40px;
+}
+
+#date{
+    display: flex;
+}
+h4{
+    margin-left: 1200px;
+}

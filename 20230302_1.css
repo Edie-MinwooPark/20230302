@@ -1,0 +1,31 @@
+.item1{
+    display: flex;
+    
+}
+.item{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    margin: 10px;
+    
+}
+
+
+
+#image{
+    display: flex;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+#title{
+    padding-top: 5px;
+}

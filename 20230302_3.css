@@ -1,0 +1,19 @@
+th , td{
+    border: 1px solid black;
+    text-align: center;
+    
+}
+
+#image{
+    width: 30px;
+    height: 30px;
+    
+}
+
+#long{
+    width: 300px;
+}
+
+#date{
+    width: 150px;
+}
